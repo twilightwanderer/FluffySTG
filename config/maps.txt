@@ -91,3 +91,7 @@ map nssjourney
 	votable
 endmap
 
+map pharaohstation
+	maxplayers 100
+	#votable
+endmap
