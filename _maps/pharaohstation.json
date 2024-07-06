@@ -33,7 +33,7 @@
 			"Up": true,
 			"Down": true,
 			"Gravity": true,
-			"Baseturf": "/turf/open/openspace",
+			"Baseturf": "/turf/open/misc/pharaohstation/sand",
 			"No Parallax": true,
 			"Linkage": "Cross"
 		},
